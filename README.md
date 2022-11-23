@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matt-Cesco
-- 👀 I’m interested React and Trading
-- 🌱 I’m currently learning React-Redux
+- 👀 I’m interested in Front end development and Trading
+- 🌱 I’m currently learning Cypress and mastering React
 - 💞️ I’m looking to collaborate on Finance and trading apps
 - 📫 How to reach me: drop me a message!
 
